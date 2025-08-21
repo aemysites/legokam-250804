@@ -1,0 +1,734 @@
+{
+  "originUrl": "https://insurance.everyday.com.au",
+  "aborted": false,
+  "lastCrawled": "https://insurance.everyday.com.au/",
+  "urls": [
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance",
+      "id": "0164a8c44a128c813dc8a88afe234d48b425fb32"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/compare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/compare",
+      "id": "c0eb3f067329b0c452066fd1571fb4314e2acac4"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/comprehensive.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/comprehensive",
+      "id": "bc3e9b0ce715c3902ee835d292837aa1a50d5871"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/drive-less-pay-less.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/drive-less-pay-less",
+      "id": "db8cf138131c776fcb2e32a0398192cfd1a236bb"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/excess-free-windscreen-cover.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/excess-free-windscreen-cover",
+      "id": "1f4a2287d2f33049134cabb623980962c42d9712"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/hire-car-cover-optional-extra.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/hire-car-cover-optional-extra",
+      "id": "657d779b507d10992538ec8700ad8e4cb80537dc"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/make-a-claim.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/make-a-claim",
+      "id": "84b43ed78933413a00fb9c6e6ad9014476ac7ee3"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/nsw-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/nsw-car-insurance",
+      "id": "b64832a604efcbf174dc1bef5ac2181ab7d33858"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/nt-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/nt-car-insurance",
+      "id": "3c0796fb106875078a521cc5d11c7309f43eee08"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/qld-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/qld-car-insurance",
+      "id": "769e1f6dae8b781baface3e9e453b0c07982a39d"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/sa-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/sa-car-insurance",
+      "id": "dbfb11efdf2f65e7aa27c401ea9922067701b903"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/tas-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/tas-car-insurance",
+      "id": "9e061b8e83a6b32ce76d844106e27c12f977f5e3"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/third-party-fire-theft.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/third-party-fire-theft",
+      "id": "cac6a59bfc32cd07ea5aee5eea19866b07a22b77"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/third-party-property.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/third-party-property",
+      "id": "e58b2223e9d42f78557730fc239e5e4fa308de3c"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/understanding-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/understanding-car-insurance",
+      "id": "ca7b8f0460d228faa442ec9169e336fec75bd64a"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/useful-documents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/useful-documents",
+      "id": "c6006b719740c817afe3906d908e03fc2f6cba16"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/vic-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/vic-car-insurance",
+      "id": "5223e54a05b775233a025bae84ce07dcf985ba0a"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/wa-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/wa-car-insurance",
+      "id": "c9ff828ed731573900e8847836c662073c65e0ab"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/weather-alert.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/weather-alert",
+      "id": "4e780a8823a85f003a6ec56259b061f85635257f"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/what-is-excess-car-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/what-is-excess-car-insurance",
+      "id": "2003b6b7dd5c852cccb2c7a4d4c452eb127cf561"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/your-claim.html",
+      "source": "SITEMAPS",
+      "targetPath": "/car-insurance/your-claim",
+      "id": "b4d1e98792a3efb7486cff225a9cd607f1daa82b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance",
+      "id": "f83d7e369869594f6d437e773377da542ea4660b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/buildings-and-contents-ab-test.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/buildings-and-contents-ab-test",
+      "id": "19f431457cbb0e8e5bab27867f7e1d6d923d87ca"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/buildings-and-contents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/buildings-and-contents",
+      "id": "5909388c868b60a5f34984943cb33e92fd99deda"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/buildings.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/buildings",
+      "id": "a0c31a4e74291780a1ce3d0aae29b925c951d911"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/compare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/compare",
+      "id": "d1605d0af85f9040ef32531e8f0c7fc322cfdcf3"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/contents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/contents",
+      "id": "924fafebfd25731b25ae16a0c393db96cb96dbb8"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/home-seo-test.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/home-seo-test",
+      "id": "818de91ad83fa6328f502ba57033c25dd374be8a"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/make-a-claim.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/make-a-claim",
+      "id": "6fa2c22f674ef26e937eab1a326640bd057150ca"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/understanding-home-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/understanding-home-insurance",
+      "id": "eb9ba9f2fe3037a471cd0e4001c5ed67866ff0f5"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/useful-documents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/useful-documents",
+      "id": "941ec05741cb48513f923994b341742306e7235c"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/weather-alert.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/weather-alert",
+      "id": "3ff8ada873f8f0af6fe8cd58379e6fa18c24dbe9"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/what-can-you-claim-home-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/what-can-you-claim-home-insurance",
+      "id": "554d795adc1ab50a76b1a02f74ed11c237b0567f"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/what-is-a-home-insurance-policy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/what-is-a-home-insurance-policy",
+      "id": "a406c0ccf42e6c2e15b85fe6b58eda8b7b4cb50b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/why-buy-home-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/why-buy-home-insurance",
+      "id": "27a75cdc7e76b1f1171d078a31010c1068fedfaf"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/your-claim.html",
+      "source": "SITEMAPS",
+      "targetPath": "/home-insurance/your-claim",
+      "id": "fd768ec5291400bd96cb835d856ea5939da7e44b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/landlords-insurance",
+      "id": "21aa39012ea532f7ae86df3ce58f1ea368a719ec"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/compare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/landlords-insurance/compare",
+      "id": "9351dad17a532ddd3e87a491d8204cb51ba42021"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/make-a-claim.html",
+      "source": "SITEMAPS",
+      "targetPath": "/landlords-insurance/make-a-claim",
+      "id": "7bd19b500549492f05514568a47cba8c3ba55b33"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/useful-documents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/landlords-insurance/useful-documents",
+      "id": "d772ff39af4a7599b529dc5af54306c0d71c5b88"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/your-claim.html",
+      "source": "SITEMAPS",
+      "targetPath": "/landlords-insurance/your-claim",
+      "id": "3f27aaa4a89ab54c37cea9630acfbb5738d08535"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance",
+      "id": "0bbef2be71f6d6ced893224558ff7d18c4d4bd18"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/cat-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/cat-insurance",
+      "id": "b6b3164eb2503a1c0d6d0f59f0d4ac78531f6bc2"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/compare.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/compare",
+      "id": "1bd743ffd72d7ebad2f4fb68b7a9745de105e8b3"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/dog-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/dog-insurance",
+      "id": "0d848ccdc51ce5a29a87e6b942436590725d68fe"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/dr-harry.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/dr-harry",
+      "id": "a77acb992427c5a7b7f9062fb5e693a173f1d852"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/gaponly.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/gaponly",
+      "id": "1da6db93c8ccee07daef899bf97d2b828e8adc24"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-cat",
+      "id": "93fe9cd763cb475ded5c31f49f52820a966cb204"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/british-shorthair-cat.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-cat/british-shorthair-cat",
+      "id": "3142bc9114373097bbd967302081c0d046ba60b4"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/domestic-shorthair-cat-breed.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-cat/domestic-shorthair-cat-breed",
+      "id": "2dd5e91dcf6d2591e10063a4231709c8228d719d"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/domestic-shorthair-cat.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-cat/domestic-shorthair-cat",
+      "id": "4ee7941e1a9c40374e820b2d719a65fa2ee801e6"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/ragdoll-cat.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-cat/ragdoll-cat",
+      "id": "828c5af4ede78634b42f97c9bbf6b271673e7762"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/sphynx-cat.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-cat/sphynx-cat",
+      "id": "043ab8461390af44941760226e5a0a192187fca0"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog",
+      "id": "5dc0c5df46a7627029251bbe1fc685ca3faf4a81"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/american-staffordshire-terrier.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/american-staffordshire-terrier",
+      "id": "d33a93a8b83b9a2709e5ffb7b34019c4d25a7f67"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/beagle.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/beagle",
+      "id": "a9b8fb234366f63c2d66ac82b2fee353352f4812"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/bernese-mountain-dog.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/bernese-mountain-dog",
+      "id": "4f3aeda9d597420253e455af4296df132684427d"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/border-collie.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/border-collie",
+      "id": "1398ea992b8335bfde6f1893464a49ca1064bd8a"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cavalier-king-charles-spaniel.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/cavalier-king-charles-spaniel",
+      "id": "4bfbc76025862faade352ab5e06e2502423b70ad"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cavoodle-dog-breed.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/cavoodle-dog-breed",
+      "id": "bfb3b1715623424e89af7c7c09becc15fab6ca51"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cavoodle.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/cavoodle",
+      "id": "18c737ad7243d1d7269afec1934b1a28c1b5e218"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/chihuahua.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/chihuahua",
+      "id": "47044f51b3e04da7edae72a8b0f4ac2338e9da4b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cockapoo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/cockapoo",
+      "id": "0862852f8fff7a69aa354e44d02eb1bd85a5b364"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/dachshund.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/dachshund",
+      "id": "6a269448a3cca4d8e8260ed58b0e11eccaab365b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/french-bulldog.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/french-bulldog",
+      "id": "8d7a9e61ee6c3e20a270452d1a1b2cc0cd046e8c"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/german-shepherd.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/german-shepherd",
+      "id": "44ab3b65967f8d25bafffc54ac0d9d3b9a7aa94b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/golden-retriever.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/golden-retriever",
+      "id": "b6b6359641a7db231630b2fe5103183758c7c8bd"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/great-dane.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/great-dane",
+      "id": "5ffe19bb02ce4f3e808338fafc1a2b5f1ccbf043"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/greyhound.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/greyhound",
+      "id": "8fe3a88240911592f162f1730975a78614f6759b"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/groodle.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/groodle",
+      "id": "f227bff22aaf4942f29a5516f890a708569bcf78"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/kelpie.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/kelpie",
+      "id": "fc870a21f8003d4bf170234395aed1b632269735"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/labrador-dog-breed.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/labrador-dog-breed",
+      "id": "586d4d6bfadc24b408ee7f3aed2cb1a6f9aa38b9"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/labrador.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/labrador",
+      "id": "44d58d65b1beba27cf4d584df241479bc8d4b062"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/maltese-dog-breed.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/maltese-dog-breed",
+      "id": "5856e94757d402e19a202e848336e0d5e095a080"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/maltese.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/maltese",
+      "id": "366b94b4663777888144b425d840022a63df5bd1"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/miniature-dachshund-dog-breed.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/miniature-dachshund-dog-breed",
+      "id": "d97048e5aec253619fcd4942623101a4575df3b2"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/miniature-dachshund.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/miniature-dachshund",
+      "id": "d75d4577bf351dc800925df65d2f6863795b0144"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/newfoundland.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/newfoundland",
+      "id": "8c2c17db1b8448fe3a7622525bb5844421f43a33"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/pocket-bully.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/pocket-bully",
+      "id": "ba11710ce6d04669bda5303e8cb11cc74fc4021f"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/pomeranian.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/pomeranian",
+      "id": "7f506e31a248418f91facd990aaf8f1f5a486248"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/poodle.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/poodle",
+      "id": "9589786ae11f41138583af45838e23da433c6625"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/pug.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/pug",
+      "id": "be01d67613015316647f761de0c8e534938f2c71"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/rottweiler.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/getting-a-dog/rottweiler",
+      "id": "cc60ed960b93a33adb198b3f573092e95d2a6e4a"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/kano-pet-product.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/kano-pet-product",
+      "id": "0eb7fe4162aff4d8b9f9515c99d7972af3d950cb"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/make-a-claim.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/make-a-claim",
+      "id": "3dab0e5558f67cb6accf2a77f153f9ce7f168a33"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-cover.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-cover",
+      "id": "39ba74e1ffa885bb2f63c446e98fa89d66167ed3"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-parent-old-variation-0.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-parent-old-variation-0",
+      "id": "610d8c072f9bdc6ebbdf11c35a0886df1e8b00de"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-parent-old-variation-1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-parent-old-variation-1",
+      "id": "f7af78345834b400746c50ede2daadd17d74edc4"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-quote-pvt.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-quote-pvt",
+      "id": "5b22a80ee71f5daed6dab76baef39efbec544a1d"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-quotelines/api/disclaimer-model.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-quotelines/api/disclaimer-model",
+      "id": "b439c33fc2c2a770938c622313a4ff9ecef9c097"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-quotelines/api/pet-content.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-quotelines/api/pet-content",
+      "id": "49d439b3c9f2fa2dd56181bd15f6ee0ee16f50cb"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-video-error.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-video-error",
+      "id": "1940789e818160395ed7e09a7dc15a660dfb7a89"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-video.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pet-video",
+      "id": "7f78b2c943f483c6f477c2780c9c31e33e506910"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/petrescue.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/petrescue",
+      "id": "50525662ea8a82d4e3c904d7879a134c2446d783"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pre-existing-conditions-update.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/pre-existing-conditions-update",
+      "id": "76be4b82767849a807bd1d77e7fc253a7be0b87d"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/routine-care.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/routine-care",
+      "id": "34566c5151d7944ffc5b6119caf5005231a74c7f"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/understanding-pet-insurance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/understanding-pet-insurance",
+      "id": "2ea64db4763a71353444ab792bb12a0bd76acdf8"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/useful-documents.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/useful-documents",
+      "id": "6959993bbe69e86491c70b6cf0cd7934b3a4af96"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/vetassist.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/vetassist",
+      "id": "84bfee372b2a30d02acda94ce3a42700628ac4a6"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/weather-alert.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pet-insurance/weather-alert",
+      "id": "95f1ffdc29b65918aca97b813f0da4a358818a47"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://insurance.everyday.com.au/content/insurance.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/car-insurance.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/content/insurance/car-insurance.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/landlords-insurance.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/content/insurance/landlords-insurance.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/make-a-ctp-claim.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/content/insurance/other-products/ctp-green-slip.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/home-insurance.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/home-insurance.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/login.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/my-ins-portal/mip.html/login"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-insurance.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/pet-insurance.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/indoor-cat.html",
+      "status": "301 Moved Permanently Redirect: https://insurance.everyday.com.au/pet-insurance.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/about-my-insurance-portal.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/about-my-insurance-portal.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/compliments-complaints.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/compliments-complaints.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/compliments-complaints.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/compliments-complaints.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/about-my-insurance-portal.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/content/insurance/about-my-insurance-portal.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/about-my-insurance-portal.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/content/insurance/about-my-insurance-portal.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/about-my-insurance-portal.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/content/insurance/about-my-insurance-portal.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/compliments-complaints.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/content/insurance/compliments-complaints.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/compliments-complaints.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/content/insurance/compliments-complaints.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/healthy-pet.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/healthy-pet/healthypet.html"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/login.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/my-ins-portal/mip.html/login"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/login.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/my-ins-portal/mip.html/login"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/login.html",
+      "status": "302 Moved Temporarily Redirect: https://insurance.everyday.com.au/my-ins-portal/mip.html/login"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/get-a-quote.html",
+      "status": "302 Moved Temporarily Redirect: https://www.everydaycarinsurance.com.au/Car"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/car-insurance/retrieve-a-quote.html",
+      "status": "302 Moved Temporarily Redirect: https://www.everydaycarinsurance.com.au/car/rmq"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/get-a-quote.html",
+      "status": "302 Moved Temporarily Redirect: https://www.everydayhomeinsurance.com.au/Home"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/home-insurance/retrieve-a-quote.html",
+      "status": "302 Moved Temporarily Redirect: https://www.everydayhomeinsurance.com.au/home/rmq"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/get-a-quote.html",
+      "status": "302 Moved Temporarily Redirect: https://www.everydayhomeinsurance.com.au/Landlords"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/landlords-insurance/retrieve-a-quote.html",
+      "status": "302 Moved Temporarily Redirect: https://www.everydayhomeinsurance.com.au/landlords/rmq"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/pet-insurance/pet-quote.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://insurance.everyday.com.au/content/insurance.sitemap.xml",
+      "status": "parseSitemapFromUrl (https://insurance.everyday.com.au/content/insurance.sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Content-Type: text/html;charset=utf-8"
+    }
+  ]
+}
