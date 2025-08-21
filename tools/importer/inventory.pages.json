@@ -1,0 +1,434 @@
+{
+  "templates": [
+    {
+      "name": "'Dashboard Interface'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/landlords-insurance/make-a-claim.html",
+          "uuid": "7bd19b500549492f05514568a47cba8c3ba55b33"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/landlords-insurance/compare.html",
+          "uuid": "9351dad17a532ddd3e87a491d8204cb51ba42021"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/landlords-insurance/useful-documents.html",
+          "uuid": "d772ff39af4a7599b529dc5af54306c0d71c5b88"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/pet-cover.html",
+          "uuid": "39ba74e1ffa885bb2f63c446e98fa89d66167ed3"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog.html",
+          "uuid": "5dc0c5df46a7627029251bbe1fc685ca3faf4a81"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/cat-insurance.html",
+          "uuid": "b6b3164eb2503a1c0d6d0f59f0d4ac78531f6bc2"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/dog-insurance.html",
+          "uuid": "0d848ccdc51ce5a29a87e6b942436590725d68fe"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat.html",
+          "uuid": "93fe9cd763cb475ded5c31f49f52820a966cb204"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/gaponly.html",
+          "uuid": "1da6db93c8ccee07daef899bf97d2b828e8adc24"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/dr-harry.html",
+          "uuid": "a77acb992427c5a7b7f9062fb5e693a173f1d852"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/compare.html",
+          "uuid": "1bd743ffd72d7ebad2f4fb68b7a9745de105e8b3"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/pet-parent-old-variation-0.html",
+          "uuid": "610d8c072f9bdc6ebbdf11c35a0886df1e8b00de"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/pet-parent-old-variation-1.html",
+          "uuid": "f7af78345834b400746c50ede2daadd17d74edc4"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/kano-pet-product.html",
+          "uuid": "0eb7fe4162aff4d8b9f9515c99d7972af3d950cb"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/compare.html",
+          "uuid": "d1605d0af85f9040ef32531e8f0c7fc322cfdcf3"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/useful-documents.html",
+          "uuid": "941ec05741cb48513f923994b341742306e7235c"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/landlords-insurance.html",
+          "uuid": "21aa39012ea532f7ae86df3ce58f1ea368a719ec"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance.html",
+          "uuid": "0bbef2be71f6d6ced893224558ff7d18c4d4bd18"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/home-seo-test.html",
+          "uuid": "818de91ad83fa6328f502ba57033c25dd374be8a"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance.html",
+          "uuid": "f83d7e369869594f6d437e773377da542ea4660b"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance.html",
+          "uuid": "0164a8c44a128c813dc8a88afe234d48b425fb32"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/what-can-you-claim-home-insurance.html",
+          "uuid": "554d795adc1ab50a76b1a02f74ed11c237b0567f"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/understanding-home-insurance.html",
+          "uuid": "eb9ba9f2fe3037a471cd0e4001c5ed67866ff0f5"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/make-a-claim.html",
+          "uuid": "6fa2c22f674ef26e937eab1a326640bd057150ca"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/what-is-a-home-insurance-policy.html",
+          "uuid": "a406c0ccf42e6c2e15b85fe6b58eda8b7b4cb50b"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/why-buy-home-insurance.html",
+          "uuid": "27a75cdc7e76b1f1171d078a31010c1068fedfaf"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/contents.html",
+          "uuid": "924fafebfd25731b25ae16a0c393db96cb96dbb8"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/buildings-and-contents.html",
+          "uuid": "5909388c868b60a5f34984943cb33e92fd99deda"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/buildings.html",
+          "uuid": "a0c31a4e74291780a1ce3d0aae29b925c951d911"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/buildings-and-contents-ab-test.html",
+          "uuid": "19f431457cbb0e8e5bab27867f7e1d6d923d87ca"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cavoodle-dog-breed.html",
+          "uuid": "bfb3b1715623424e89af7c7c09becc15fab6ca51"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/miniature-dachshund-dog-breed.html",
+          "uuid": "d97048e5aec253619fcd4942623101a4575df3b2"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/maltese-dog-breed.html",
+          "uuid": "5856e94757d402e19a202e848336e0d5e095a080"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/labrador-dog-breed.html",
+          "uuid": "586d4d6bfadc24b408ee7f3aed2cb1a6f9aa38b9"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/miniature-dachshund.html",
+          "uuid": "d75d4577bf351dc800925df65d2f6863795b0144"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/french-bulldog.html",
+          "uuid": "8d7a9e61ee6c3e20a270452d1a1b2cc0cd046e8c"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/labrador.html",
+          "uuid": "44d58d65b1beba27cf4d584df241479bc8d4b062"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/pomeranian.html",
+          "uuid": "7f506e31a248418f91facd990aaf8f1f5a486248"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cavalier-king-charles-spaniel.html",
+          "uuid": "4bfbc76025862faade352ab5e06e2502423b70ad"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/border-collie.html",
+          "uuid": "1398ea992b8335bfde6f1893464a49ca1064bd8a"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/maltese.html",
+          "uuid": "366b94b4663777888144b425d840022a63df5bd1"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/kelpie.html",
+          "uuid": "fc870a21f8003d4bf170234395aed1b632269735"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cavoodle.html",
+          "uuid": "18c737ad7243d1d7269afec1934b1a28c1b5e218"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/german-shepherd.html",
+          "uuid": "44ab3b65967f8d25bafffc54ac0d9d3b9a7aa94b"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/golden-retriever.html",
+          "uuid": "b6b6359641a7db231630b2fe5103183758c7c8bd"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/pocket-bully.html",
+          "uuid": "ba11710ce6d04669bda5303e8cb11cc74fc4021f"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/dachshund.html",
+          "uuid": "6a269448a3cca4d8e8260ed58b0e11eccaab365b"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/great-dane.html",
+          "uuid": "5ffe19bb02ce4f3e808338fafc1a2b5f1ccbf043"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/american-staffordshire-terrier.html",
+          "uuid": "d33a93a8b83b9a2709e5ffb7b34019c4d25a7f67"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/beagle.html",
+          "uuid": "a9b8fb234366f63c2d66ac82b2fee353352f4812"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/bernese-mountain-dog.html",
+          "uuid": "4f3aeda9d597420253e455af4296df132684427d"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/poodle.html",
+          "uuid": "9589786ae11f41138583af45838e23da433c6625"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/pug.html",
+          "uuid": "be01d67613015316647f761de0c8e534938f2c71"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/rottweiler.html",
+          "uuid": "cc60ed960b93a33adb198b3f573092e95d2a6e4a"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/newfoundland.html",
+          "uuid": "8c2c17db1b8448fe3a7622525bb5844421f43a33"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/groodle.html",
+          "uuid": "f227bff22aaf4942f29a5516f890a708569bcf78"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/greyhound.html",
+          "uuid": "8fe3a88240911592f162f1730975a78614f6759b"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/chihuahua.html",
+          "uuid": "47044f51b3e04da7edae72a8b0f4ac2338e9da4b"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-dog/cockapoo.html",
+          "uuid": "0862852f8fff7a69aa354e44d02eb1bd85a5b364"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/useful-documents.html",
+          "uuid": "c6006b719740c817afe3906d908e03fc2f6cba16"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/understanding-car-insurance.html",
+          "uuid": "ca7b8f0460d228faa442ec9169e336fec75bd64a"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/comprehensive.html",
+          "uuid": "bc3e9b0ce715c3902ee835d292837aa1a50d5871"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/make-a-claim.html",
+          "uuid": "84b43ed78933413a00fb9c6e6ad9014476ac7ee3"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/compare.html",
+          "uuid": "c0eb3f067329b0c452066fd1571fb4314e2acac4"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/hire-car-cover-optional-extra.html",
+          "uuid": "657d779b507d10992538ec8700ad8e4cb80537dc"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/excess-free-windscreen-cover.html",
+          "uuid": "1f4a2287d2f33049134cabb623980962c42d9712"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/third-party-fire-theft.html",
+          "uuid": "cac6a59bfc32cd07ea5aee5eea19866b07a22b77"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/drive-less-pay-less.html",
+          "uuid": "db8cf138131c776fcb2e32a0398192cfd1a236bb"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/third-party-property.html",
+          "uuid": "e58b2223e9d42f78557730fc239e5e4fa308de3c"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/what-is-excess-car-insurance.html",
+          "uuid": "2003b6b7dd5c852cccb2c7a4d4c452eb127cf561"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/wa-car-insurance.html",
+          "uuid": "c9ff828ed731573900e8847836c662073c65e0ab"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/qld-car-insurance.html",
+          "uuid": "769e1f6dae8b781baface3e9e453b0c07982a39d"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/vic-car-insurance.html",
+          "uuid": "5223e54a05b775233a025bae84ce07dcf985ba0a"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/tas-car-insurance.html",
+          "uuid": "9e061b8e83a6b32ce76d844106e27c12f977f5e3"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/sa-car-insurance.html",
+          "uuid": "dbfb11efdf2f65e7aa27c401ea9922067701b903"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/nt-car-insurance.html",
+          "uuid": "3c0796fb106875078a521cc5d11c7309f43eee08"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/nsw-car-insurance.html",
+          "uuid": "b64832a604efcbf174dc1bef5ac2181ab7d33858"
+        }
+      ]
+    },
+    {
+      "name": "It appears the image is too small or unclear to",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/pet-quotelines/api/disclaimer-model.html",
+          "uuid": "b439c33fc2c2a770938c622313a4ff9ecef9c097"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/weather-alert.html",
+          "uuid": "4e780a8823a85f003a6ec56259b061f85635257f"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/weather-alert.html",
+          "uuid": "3ff8ada873f8f0af6fe8cd58379e6fa18c24dbe9"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/landlords-insurance/your-claim.html",
+          "uuid": "3f27aaa4a89ab54c37cea9630acfbb5738d08535"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/car-insurance/your-claim.html",
+          "uuid": "b4d1e98792a3efb7486cff225a9cd607f1daa82b"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/home-insurance/your-claim.html",
+          "uuid": "fd768ec5291400bd96cb835d856ea5939da7e44b"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/pet-quote-pvt.html",
+          "uuid": "5b22a80ee71f5daed6dab76baef39efbec544a1d"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/domestic-shorthair-cat-breed.html",
+          "uuid": "2dd5e91dcf6d2591e10063a4231709c8228d719d"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/domestic-shorthair-cat.html",
+          "uuid": "4ee7941e1a9c40374e820b2d719a65fa2ee801e6"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/sphynx-cat.html",
+          "uuid": "043ab8461390af44941760226e5a0a192187fca0"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/ragdoll-cat.html",
+          "uuid": "828c5af4ede78634b42f97c9bbf6b271673e7762"
+        },
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/getting-a-cat/british-shorthair-cat.html",
+          "uuid": "3142bc9114373097bbd967302081c0d046ba60b4"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/make-a-claim.html",
+          "uuid": "3dab0e5558f67cb6accf2a77f153f9ce7f168a33"
+        }
+      ]
+    },
+    {
+      "name": "It seems the image is too blurred to discern any",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://insurance.everyday.com.au/pet-insurance/pet-quotelines/api/pet-content.html",
+          "uuid": "49d439b3c9f2fa2dd56181bd15f6ee0ee16f50cb"
+        }
+      ]
+    }
+  ]
+}
