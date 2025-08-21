@@ -548,60 +548,6 @@
       "source": "SITEMAPS",
       "targetPath": "/pet-insurance/pet-quotelines/api/pet-content",
       "id": "49d439b3c9f2fa2dd56181bd15f6ee0ee16f50cb"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/pet-video-error.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/pet-video-error",
-      "id": "1940789e818160395ed7e09a7dc15a660dfb7a89"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/pet-video.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/pet-video",
-      "id": "7f78b2c943f483c6f477c2780c9c31e33e506910"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/petrescue.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/petrescue",
-      "id": "50525662ea8a82d4e3c904d7879a134c2446d783"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/pre-existing-conditions-update.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/pre-existing-conditions-update",
-      "id": "76be4b82767849a807bd1d77e7fc253a7be0b87d"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/routine-care.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/routine-care",
-      "id": "34566c5151d7944ffc5b6119caf5005231a74c7f"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/understanding-pet-insurance.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/understanding-pet-insurance",
-      "id": "2ea64db4763a71353444ab792bb12a0bd76acdf8"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/useful-documents.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/useful-documents",
-      "id": "6959993bbe69e86491c70b6cf0cd7934b3a4af96"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/vetassist.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/vetassist",
-      "id": "84bfee372b2a30d02acda94ce3a42700628ac4a6"
-    },
-    {
-      "url": "https://insurance.everyday.com.au/pet-insurance/weather-alert.html",
-      "source": "SITEMAPS",
-      "targetPath": "/pet-insurance/weather-alert",
-      "id": "95f1ffdc29b65918aca97b813f0da4a358818a47"
     }
   ],
   "crawlOptions": {
