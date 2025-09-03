@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/AEMDemos/Shared%20Documents/sites/aemy-sites/legokam-250804
+  /:
+    url: "https://author-p152232-e1579634.adobeaemcloud.com/bin/franklin.delivery/aemysites/legokam-250804/main"
+    type: "markup"
+    suffix: ".html"
