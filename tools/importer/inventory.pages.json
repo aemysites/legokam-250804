@@ -1,0 +1,442 @@
+{
+  "templates": [
+    {
+      "name": "'Content Grid Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/machines",
+          "uuid": "d327938ec7cdf1a987fe7559fd8e9826cf0b4586"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/",
+          "uuid": "f93e2e4eb98623cbdfb24b411900b6707e6227ca"
+        },
+        {
+          "url": "https://frescopa.coffee/es/sustainability",
+          "uuid": "1a83e64147280bb6a8c572d3c5825c7f670fb190"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/sustainability",
+          "uuid": "9d083104419ecee30c4a6a455079261455c7684a"
+        },
+        {
+          "url": "https://frescopa.coffee/sustainability",
+          "uuid": "ff04dcc89d3c57cf31ee6e1d845ec1361c4cedaf"
+        },
+        {
+          "url": "https://frescopa.coffee/en/",
+          "uuid": "c9cc092322af42df7151076b23bf935a29a52f2a"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/",
+          "uuid": "d57c1a9adcf99e0d6691ca849436cb950ddab3eb"
+        },
+        {
+          "url": "https://frescopa.coffee/es/",
+          "uuid": "d03d74328857a4640cb778f7fc3d3fc481cc59c5"
+        },
+        {
+          "url": "https://frescopa.coffee/coffee",
+          "uuid": "005c82e069b0ebc2712d65ba7b09f8b669235deb"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/coffee",
+          "uuid": "c356c6f814599bec7a6d199d959792dbb47a80d4"
+        },
+        {
+          "url": "https://frescopa.coffee/es/coffee",
+          "uuid": "c025992943f53e3ccc25429ae4f3758f0cdfead4"
+        },
+        {
+          "url": "https://frescopa.coffee/footer",
+          "uuid": "98f87127d1abaa0886b4c46f3f217e2bd9131fcc"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/footer",
+          "uuid": "4a37d43313ff83245a694f3baf317ea8700c968a"
+        },
+        {
+          "url": "https://frescopa.coffee/es/footer",
+          "uuid": "2fceb490cad1c95e6bb152d315e387e7a133bba9"
+        },
+        {
+          "url": "https://frescopa.coffee/es/nav",
+          "uuid": "ca448ca924e90f25f4a4c8b5e1c0cf64d2a037bc"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/nav",
+          "uuid": "7e3bea19ba4a23481c17e08006fd372571d4b1c7"
+        },
+        {
+          "url": "https://frescopa.coffee/nav",
+          "uuid": "81ad81618d99143fa1e1c2268533246afb9ade04"
+        },
+        {
+          "url": "https://frescopa.coffee/es/tea",
+          "uuid": "eef08b973407f6169873cd47e635b8a2908ca5d5"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/accessories",
+          "uuid": "f1dd48d915b45f6c619902d9da978e8e83b75c6e"
+        },
+        {
+          "url": "https://frescopa.coffee/es/accessories",
+          "uuid": "16e06f5849f7a62127cd698e22b2435bbb246357"
+        },
+        {
+          "url": "https://frescopa.coffee/tea",
+          "uuid": "0098594d05fa2391999741bd91a5c746fee8e895"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/tea",
+          "uuid": "d442fd88a35abc504b9302b940e6461999eeee05"
+        },
+        {
+          "url": "https://frescopa.coffee/es/subscription",
+          "uuid": "e327a1dd71376867b95e6cbb0765a16b4ab7d38b"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/subscription",
+          "uuid": "3c15f751d6e43c19db9c97047df7cce886385670"
+        },
+        {
+          "url": "https://frescopa.coffee/subscription",
+          "uuid": "24d98410c7e45ed7506340ddbb73ce7d8abeee3e"
+        },
+        {
+          "url": "https://frescopa.coffee/es/products",
+          "uuid": "d8d3f98b59cdc174bd06b0c9ab934aead2d529c2"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/products",
+          "uuid": "3234bba3c82e7b846d5a2a89304fe388bef0b286"
+        },
+        {
+          "url": "https://frescopa.coffee/es/contact-us",
+          "uuid": "e3393936ffb7f97215ad1f86a50151efc04fc6d3"
+        },
+        {
+          "url": "https://frescopa.coffee/es/signup",
+          "uuid": "34e3312dd054bb032c2914461fb830f37f61ae2e"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/locations",
+          "uuid": "baea477349ffcaf5b0f1e678f181d506fe9ad79a"
+        },
+        {
+          "url": "https://frescopa.coffee/es/locations",
+          "uuid": "2d6fadabb150c9aedb424feecef53990a54e84d3"
+        },
+        {
+          "url": "https://frescopa.coffee/locations",
+          "uuid": "3c443ff4fbaeaee30bff0e8b784a1a9912b30561"
+        },
+        {
+          "url": "https://frescopa.coffee/es/search",
+          "uuid": "a8060f204b17eaacc4f1913c6ff59a84cded4ebc"
+        },
+        {
+          "url": "https://frescopa.coffee/es/placeholders",
+          "uuid": "ba9505d650c5c078a08eff7cc8164fb3658b8440"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/search",
+          "uuid": "4987fd71355097e069106b741d715377f67b6085"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/placeholders",
+          "uuid": "cd06f92bd36ce8aae3064c576f77c5a9e51bbf1c"
+        },
+        {
+          "url": "https://frescopa.coffee/es/business",
+          "uuid": "f8818e2f4fd930a8a9da5594dea2b1e90fa33fb4"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/business",
+          "uuid": "28ba7fafeda795f8e66a7b360d2585bfc7aaf7a5"
+        },
+        {
+          "url": "https://frescopa.coffee/es/quiz",
+          "uuid": "75e3f76107380dfb4af211cc3dc533752412758f"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/quiz",
+          "uuid": "c4ef3f0786a00a1d1705effd39b4fdbba3fa6586"
+        },
+        {
+          "url": "https://frescopa.coffee/quiz",
+          "uuid": "7eaa33015c5e0884cfb0292647153f872e27e9ec"
+        }
+      ]
+    },
+    {
+      "name": "'Basic Content Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/offers/fall-in-love-my-barista-subscription",
+          "uuid": "5911f11b65245b19dba1247703ca38310c74aa6e"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/articles/the-art-of-latteart",
+          "uuid": "86fd29a697c52040c271d27783125413e145f51e"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/articles/discovering-the-artofpourovercoffee",
+          "uuid": "d69758912c5d1df44330bf2002e787c144cafa96"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/articles/the-magic-of-espresso",
+          "uuid": "c6e01572b616824d61c9ef4d8e659d8756daec2e"
+        }
+      ]
+    },
+    {
+      "name": "'Content Block Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/fr/contact-us",
+          "uuid": "e9d9464400895064f0b4975590c3ccbaac481670"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/contact-us",
+          "uuid": "cf452cc30bba635719dc285753a3713d6017cd05"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-purpose Content Template'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/jp/machines",
+          "uuid": "28ec16aa5e4552e7952a5dc35a6344c18418fe72"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/coffee",
+          "uuid": "fb64ec774af0fe65ce2a7f131d451a8f1b8c05f5"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/footer",
+          "uuid": "7620f24440ebdffea1de3485a5bfbd11af6c3c64"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/nav",
+          "uuid": "0b715755cce77a8738fa137d02d3091b0be18dd1"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/accessories",
+          "uuid": "bca5c4556bbf8f39438a130a3009edb866dfcfed"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/products",
+          "uuid": "48aa18907ecef7dcbecba3c27840d7c28bd73b3f"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/locations",
+          "uuid": "b4b2db4d820c4954e70b5ebbdd567a2f65662f40"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/placeholders",
+          "uuid": "7f2bb60d60f8317aa1c7a8ca598b0170418096f4"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/business",
+          "uuid": "963fed5e58453eab1bee20ab3c8b34c1b9944312"
+        },
+        {
+          "url": "https://frescopa.coffee/jp/quiz",
+          "uuid": "f82bd1c8d47b2ed11428348dfa6538fb06d7f8b7"
+        }
+      ]
+    },
+    {
+      "name": "Minimalist Layout Template",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/locations/locationlist",
+          "uuid": "fd9871897efe2450814c340062a34e0488143776"
+        },
+        {
+          "url": "https://frescopa.coffee/en/locations/locationslist",
+          "uuid": "a7acc9982e67c5f65ffaea192bd56168c5f3c1b9"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Grid",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/en/machines",
+          "uuid": "ecbeb37bcda2a267430802e372473b2af0dbfb23"
+        },
+        {
+          "url": "https://frescopa.coffee/es/machines",
+          "uuid": "e76ef90d9f1e73b7461f48dd58d331f14adb6aa7"
+        },
+        {
+          "url": "https://frescopa.coffee/fr/machines",
+          "uuid": "3211bb10a6340c82e75cd08f64c9104c685da877"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Overview Page'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/3-4-cups",
+          "uuid": "c15e4a31ed6cbc16c18f8e51e0563e0a1e831f71"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/cups-a-day",
+          "uuid": "9969489e268a37699b10dfa8e97f632d65189fc8"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/making-coffee",
+          "uuid": "7f3b779cea4ffc9660e2daef57f96b1bb11f6748"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/drip-machine",
+          "uuid": "54e58ae3bc0c3c480feb72a73aba173b478f5542"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/feel-type",
+          "uuid": "582556fb35d2b74fea74f8ba0ff3bcbf92502a98"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/espresso-machine",
+          "uuid": "a39a2248d975c970d064157a9020d8d4ff0fb25d"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/taste-type",
+          "uuid": "a9a145ef1f1fe9170912e3001bec3077d9f63c7d"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/coffee-profile",
+          "uuid": "61615d94ab8d86bae0da8b3092e35db4296d1c7b"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/location",
+          "uuid": "4475dd5063e85eccd262e28f8da353e713301c2e"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/flavour-type",
+          "uuid": "bf39303723364ed37a01d8faecf513d6765eb6ff"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/coffee-pods",
+          "uuid": "09d74f4fac2222849124a597a81679d07e54e0fd"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/5-cups",
+          "uuid": "f6f9e7256d5455e4d86ba33a3a44165a387f7358"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/beach",
+          "uuid": "113b4fdedc3bb1d2cfaad5d165d0832886301580"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/cabin",
+          "uuid": "51a90f681d91f1f14fb93facb565a67984863531"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/country",
+          "uuid": "a779d0e9d10d6de1bbbe53a6ee165ac8f6032558"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/french-press",
+          "uuid": "266ba7f961e93977b2f62f686d58998cc21ebf1b"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/2-cups",
+          "uuid": "1898ece4193a47887c7a9ec284da57f7d20d7d5d"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/1-cup",
+          "uuid": "c7c69b882af86e7352667fec6394470e61d7cb91"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/rustic",
+          "uuid": "bf4ba78dc87ec8a1888710735e252e0b243fdcbb"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/moka-pot",
+          "uuid": "26e9688bb122e1629cde1878bae7716b6c6962cd"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/roast-type",
+          "uuid": "c71867a28c803a698618d247f87f0d1ab571660a"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/pour-over",
+          "uuid": "ca9162ff8ce79dfa7311b7a46b2daf21aa064d08"
+        },
+        {
+          "url": "https://frescopa.coffee/content/dam/frescopa/en/quiz/flavour-profile",
+          "uuid": "25b640c11612c4631a3600227dd81f9a90b5bfe4"
+        }
+      ]
+    },
+    {
+      "name": "Multi-Section Content Page",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/",
+          "uuid": "8d5aab586c3e5743e6c2b9dea51ec6d58aaf116a"
+        }
+      ]
+    },
+    {
+      "name": "'Business Overview Template'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/content/frescopa/es/",
+          "uuid": "3b3d1a6b4e1c1ca55e4dc221ac7dc976d8db6391"
+        }
+      ]
+    },
+    {
+      "name": "'Profile Page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/subscription/article-page",
+          "uuid": "b485d7982e92c7d9672fb02b194857a2ec363ab5"
+        }
+      ]
+    },
+    {
+      "name": "'Content Listing Page'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://frescopa.coffee/en/products",
+          "uuid": "de6407bc210f7d8748bb9422442e054b1255f83b"
+        },
+        {
+          "url": "https://frescopa.coffee/en/coffee",
+          "uuid": "b2928ba5f948e4ef077a97917192a350c8fbcd90"
+        },
+        {
+          "url": "https://frescopa.coffee/en/locations",
+          "uuid": "40c58cf30386617ba0cd67707fa3eeb28977d980"
+        },
+        {
+          "url": "https://frescopa.coffee/en/tea",
+          "uuid": "52eee7c3553213b2b34b8ea6eedebb10688b23cf"
+        },
+        {
+          "url": "https://frescopa.coffee/en/subscription",
+          "uuid": "3825230b11ec256e788b7883006424b8ef048474"
+        }
+      ]
+    }
+  ]
+}
