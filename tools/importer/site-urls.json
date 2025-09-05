@@ -196,24 +196,6 @@
       "id": "b2928ba5f948e4ef077a97917192a350c8fbcd90"
     },
     {
-      "url": "https://frescopa.coffee/en/drafts/jalagari/machines",
-      "source": "SITEMAPS",
-      "targetPath": "/en/drafts/jalagari/machines",
-      "id": "69d7fd652e519b2e79531ed4fd6ad4d44852d2d5"
-    },
-    {
-      "url": "https://frescopa.coffee/en/drafts/jalagari/signup",
-      "source": "SITEMAPS",
-      "targetPath": "/en/drafts/jalagari/signup",
-      "id": "85b7a11834c25012608b28ccae010fd4fa9de14c"
-    },
-    {
-      "url": "https://frescopa.coffee/en/drafts/jalagari/signup1",
-      "source": "SITEMAPS",
-      "targetPath": "/en/drafts/jalagari/signup1",
-      "id": "96687be3fa6f6b0562575be67a8e26f3ea78c75a"
-    },
-    {
       "url": "https://frescopa.coffee/en/locations",
       "source": "SITEMAPS",
       "targetPath": "/en/locations",
@@ -236,12 +218,6 @@
       "source": "SITEMAPS",
       "targetPath": "/en/products",
       "id": "de6407bc210f7d8748bb9422442e054b1255f83b"
-    },
-    {
-      "url": "https://frescopa.coffee/en/products/default",
-      "source": "SITEMAPS",
-      "targetPath": "/en/products/default",
-      "id": "d5eada2a04b7562b32e06662c7a97a3a52cf3622"
     },
     {
       "url": "https://frescopa.coffee/en/subscription",
@@ -320,18 +296,6 @@
       "source": "SITEMAPS",
       "targetPath": "/es/products",
       "id": "d8d3f98b59cdc174bd06b0c9ab934aead2d529c2"
-    },
-    {
-      "url": "https://frescopa.coffee/es/products/default",
-      "source": "SITEMAPS",
-      "targetPath": "/es/products/default",
-      "id": "964cd72e9972b534209ccf0455ec38c24893125c"
-    },
-    {
-      "url": "https://frescopa.coffee/es/products/default/metadata",
-      "source": "SITEMAPS",
-      "targetPath": "/es/products/default/metadata",
-      "id": "1fd8b38c22bbd3638feaf27541805f39c8828e70"
     },
     {
       "url": "https://frescopa.coffee/es/quiz",
@@ -452,12 +416,6 @@
       "source": "SITEMAPS",
       "targetPath": "/fr/search",
       "id": "4987fd71355097e069106b741d715377f67b6085"
-    },
-    {
-      "url": "https://frescopa.coffee/fr/signup",
-      "source": "SITEMAPS",
-      "targetPath": "/fr/signup",
-      "id": "6cb87ddd28d0f948acf1286bd50b5c9c5d59301e"
     },
     {
       "url": "https://frescopa.coffee/fr/subscription",
